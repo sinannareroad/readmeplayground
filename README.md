@@ -36,5 +36,5 @@ erDiagram
 ```
 
 # references
-- [mermaid](https://mermaid.js.org/intro/getting-started.html)
-- 
+- [mermaid|getting started](https://mermaid.js.org/intro/getting-started.html)
+- [github|creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
